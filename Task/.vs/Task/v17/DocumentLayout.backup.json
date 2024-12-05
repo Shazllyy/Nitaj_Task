@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MR.X\\Downloads\\project\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|c:\\users\\mr.x\\downloads\\project\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|solutionrelative:task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|c:\\users\\mr.x\\downloads\\project\\task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|c:\\users\\mr.x\\downloads\\project\\task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|c:\\users\\mr.x\\downloads\\project\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F9FC8F-B233-4C7B-BB17-F55FDD1C40FE}|Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130921_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130704_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130521_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Business_Logic_Layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\DbContextData\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Data_Access_Layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Business_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Business_Logic_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T15:25:37.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:13:51.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "productviewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Viewmodel\\productviewmodel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Viewmodel\\productviewmodel.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Viewmodel\\productviewmodel.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Viewmodel\\productviewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:08:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241205131005_init1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.Designer.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:58:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:48:23.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.csproj",
+              "DocumentMoniker": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task.csproj",
+              "ToolTip": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Task.csproj",
+              "RelativeToolTip": "Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T13:16:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241205131005_init1.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205131005_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:10:05.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241205130921_init1.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130921_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130921_init1.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130921_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130921_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:09:22.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241205130704_init1.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130704_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130704_init1.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130704_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130704_init1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:07:04.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241205130521_init1.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130521_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130521_init1.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130521_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Migrations\\20241205130521_init1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:05:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MR.X\\Downloads\\project\\Task\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MR.X\\Downloads\\project\\Task\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T12:29:48.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MR.X\\Downloads\\project\\Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:28:00.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:25:28.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:25:01.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:24:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Business_Logic_Layer\\Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Business_Logic_Layer\\Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:23:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:09:25.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\DbContextData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\DbContextData\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\DbContextData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\DbContextData\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:48:55.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Data_Access_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "ToolTip": "C:\\Users\\MR.X\\source\\repos\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T11:19:24.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -60,3 +60,21 @@ C:\Users\HP\Downloads\New folder\New folder\project\Business_Logic_Layer\obj\Deb
 C:\Users\HP\Downloads\New folder\New folder\project\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
 C:\Users\HP\Downloads\New folder\New folder\project\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
 C:\Users\HP\Downloads\New folder\New folder\project\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.sourcelink.json
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll

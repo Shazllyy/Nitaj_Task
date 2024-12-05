@@ -9,3 +9,15 @@ C:\Users\HP\Downloads\New folder\New folder\project\DomainLayer\obj\Debug\net8.0
 C:\Users\HP\Downloads\New folder\New folder\project\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 C:\Users\HP\Downloads\New folder\New folder\project\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 C:\Users\HP\Downloads\New folder\New folder\project\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\MR.X\Source\Repos\Nitaj_Task\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

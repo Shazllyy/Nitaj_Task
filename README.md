@@ -33,7 +33,7 @@ using **Entity Framework Core** with an in-memory database for data management.
 Follow these steps to clone and run the project:
 **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/todo-list-api.git
+   git clone https://github.com/Shazllyy/Nitaj_Task.git
    cd todo-list-api
    run the project 
 ##############################################################################################
